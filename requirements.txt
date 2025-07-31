@@ -1,0 +1,3 @@
+numpy
+opencv-python      # Only needed if you're not using Jetson's preinstalled OpenCV
+jetson-stats       # Optional, Jetson monitoring CLI
